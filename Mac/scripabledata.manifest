@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 2376976535
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 134ea387f6f267511349f50a31da07cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 29d29def52f783a2b95153508d2fa9e1
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f45a89ab532f4f8997b5c838c8b8943, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScripableData/Gold/ShopItemData_Gold 4.asset
+- Assets/ScripableData/Market/ShopItemData_MarketItem 6.asset
+- Assets/ScripableData/Market/ShopItemData_MarketItem 7.asset
+- Assets/ScripableData/Market/ShopItemData_MarketItem 3.asset
+- Assets/ScripableData/Gem/ShopItemData_Gem 0.asset
+- Assets/ScripableData/Market/ShopItemData_MarketItem 2.asset
+- Assets/ScripableData/GrowthPack/ShopItemData_Chest 3.asset
+- Assets/ScripableData/Gold/ShopItemData_Gold 0.asset
+- Assets/ScripableData/Gold/ShopItemData_Gold 6.asset
+- Assets/ScripableData/Gem/ShopItemData_Gem 2.asset
+- Assets/ScripableData/Gold/ShopItemData_Gold 5.asset
+- Assets/ScripableData/Chest/ShopItemData_Chest 3.asset
+- Assets/ScripableData/Gem/ShopItemData_Gem 6.asset
+- Assets/ScripableData/Market/ShopItemData_MarketItem 5.asset
+- Assets/ScripableData/Gem/ShopItemData_Gem 3.asset
+- Assets/ScripableData/Chest/ShopItemData_Chest 4.asset
+- Assets/ScripableData/Chest/ShopItemData_Chest 1.asset
+- Assets/ScripableData/Market/ShopItemData_MarketItem 1.asset
+- Assets/ScripableData/Market/ShopItemData_MarketItem 0.asset
+- Assets/ScripableData/Market/ShopItemData_MarketItem 11.asset
+- Assets/ScripableData/GrowthPack/ShopItemData_Chest 0.asset
+- Assets/ScripableData/Market/ShopItemData_MarketItem 8.asset
+- Assets/ScripableData/Chest/ShopItemData_Chest 5.asset
+- Assets/ScripableData/Chest/ShopItemData_Chest 2.asset
+- Assets/ScripableData/Gold/ShopItemData_Gold 1.asset
+- Assets/ScripableData/Gold/ShopItemData_Gold 3.asset
+- Assets/ScripableData/Market/ShopItemData_MarketItem 4.asset
+- Assets/ScripableData/Gem/ShopItemData_Gem 4.asset
+- Assets/ScripableData/Chest/ShopItemData_Chest 0.asset
+- Assets/ScripableData/Market/ShopItemData_MarketItem 9.asset
+- Assets/ScripableData/GrowthPack/ShopItemData_Chest 1.asset
+- Assets/ScripableData/GrowthPack/ShopItemData_Chest 2.asset
+- Assets/ScripableData/Gold/ShopItemData_Gold 2.asset
+- Assets/ScripableData/Gem/ShopItemData_Gem 1.asset
+- Assets/ScripableData/Market/ShopItemData_MarketItem 12.asset
+- Assets/ScripableData/Gem/ShopItemData_Gem 5.asset
+- Assets/ScripableData/Market/ShopItemData_MarketItem 10.asset
+Dependencies:
+- /Users/vladlutai/Desktop/AssetBundles/ios/gui
