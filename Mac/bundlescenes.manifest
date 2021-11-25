@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2987090681
+CRC: 574360261
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d0d7b8e461dc3e44a05da4fd258116f4
+    Hash: 3bae1f02f4357401678bdbaa127501d7
   TypeTreeHash:
     serializedVersion: 2
     Hash: d4e79f31ffbeef8d7bdcd377989b4abe
@@ -388,6 +388,6 @@ Assets:
 - Assets/Scenes/BundleScenes/Menu.unity
 - Assets/Scenes/BundleScenes/Dungeon.unity
 Dependencies:
-- /Users/vladlutai/Desktop/AssetBundles/Android/3dmodels
-- /Users/vladlutai/Desktop/AssetBundles/Android/font
-- /Users/vladlutai/Desktop/AssetBundles/Android/riganimations
+- /Users/vladlutai/Desktop/AssetBundles/ios/3dmodels
+- /Users/vladlutai/Desktop/AssetBundles/ios/font
+- /Users/vladlutai/Desktop/AssetBundles/ios/riganimations
