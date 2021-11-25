@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 977284667
+CRC: 473467195
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b0c96aa18e219bed4eeb6b44f3797f8c
+    Hash: 784356b82631279449f72373ca50e3ad
   TypeTreeHash:
     serializedVersion: 2
-    Hash: b2cf9b093dd4cfa164ce7750e5c50ef8
+    Hash: d4e79f31ffbeef8d7bdcd377989b4abe
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -52,17 +52,11 @@ ClassTypes:
 - Class: 108
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 002a898829b5a45a8b8f5ccc5899ed19, type: 3}
 - Class: 114
@@ -118,6 +112,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 2947ed170bcc64c44a42d25e1e72150f, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: fec8855b9bef66141840148595fc5ae7, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: c9fd83ce8c8f948ea9cbc944f0c4f0d4, type: 3}
@@ -157,6 +153,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 45e653bab7fb20e499bda25e1b646fea, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: e85f5031e8b03494fb3c5232f8b651b7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 011c66b24fe42477c8b31a00ec996f85, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 909d917d73a63f940ac158d02e936645, type: 3}
 - Class: 114
@@ -276,6 +274,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 7f0c431fa600847108f26ebf251d0474, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: c0a8fc27be2f99341a8f4b6d1eef9d33, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 0675ca7787a9b466b987279dbbc8072e, type: 3}
@@ -316,6 +316,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 627855c7f81362d41938ffe0b1475957, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 029e8519ade9a445a9744462c0c06bb7, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: f0bcb36389f32bf4ab2393f7755e2abe, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: c4bf38435a216433dabc57a7d0514243, type: 3}
@@ -340,11 +342,11 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 1f45a89ab532f4f8997b5c838c8b8943, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 1a27e7df497434e8fb819c6d154a71b1, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 55aa240406d5d4e7881363594271abe6, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 029e8519ade9a445a9744462c0c06bb7, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -385,4 +387,7 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Scenes/BundleScenes/Menu.unity
 - Assets/Scenes/BundleScenes/Dungeon.unity
-Dependencies: []
+Dependencies:
+- /Users/vladlutai/Desktop/AssetBundles/Android/3dmodels
+- /Users/vladlutai/Desktop/AssetBundles/Android/font
+- /Users/vladlutai/Desktop/AssetBundles/Android/riganimations

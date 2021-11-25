@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 3494097382
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 63841969a9cc1fa22f7b4c365f7acf8a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e25e910dfc677c51bb807fea8db9511f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/3dModels/assets/orc_Ghorbash_BC.tga
+- Assets/3dModels/Map/Materials/dungeon_template_mat2.mat
+- Assets/3dModels/assets/human_Gabrio_sword_BC.tga
+- Assets/3dModels/assets/orc_Ghorbash_axe_BC.tga
+- Assets/3dModels/Map/environment_lvl_0_p0.fbx
+- Assets/3dModels/assets/human_Gabrio_T-Pose_Unity.fbx
+- Assets/3dModels/Map/environment_lvl_0_c1.fbx
+- Assets/3dModels/assets/orc_Ghorbash_axe.fbx
+- Assets/3dModels/Map/Textures/dungeon_texture.tga
+- Assets/3dModels/Map/Textures/dungeon_glow.tga
+- Assets/3dModels/assets/human_Gabrio_BC.tga
+- Assets/3dModels/Map/Textures/dungeon_metal.tga
+- Assets/3dModels/Map/environment_lvl_0_c0.fbx
+- Assets/3dModels/Map/environment_lvl_0_c2.fbx
+- Assets/3dModels/assets/human_Gabrio_sword.fbx
+- Assets/3dModels/assets/orc_Ghorbash_T-Pose_Unity.fbx
+Dependencies: []

@@ -1,0 +1,70 @@
+ManifestFileVersion: 0
+CRC: 800111459
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ad9fa84c312e0e868fab40cf3bee8081
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e25e910dfc677c51bb807fea8db9511f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ExternalPackages/RigAnimations/Kevin Iglesias/Melee Warrior Animations/Animations/MeleeWarrior@Death04.fbx
+- Assets/ExternalPackages/RigAnimations/Kevin Iglesias/Melee Warrior Animations/Animations/TwoHanded/2H@CombatIdle01.fbx
+- Assets/ExternalPackages/RigAnimations/Kevin Iglesias/Caster Mage Animations/Animations/Combat/Mage@Block01.fbx
+- Assets/ExternalPackages/RigAnimations/Kevin Iglesias/Melee Warrior Animations/Animations/TwoHanded/2H@Attack04.fbx
+- Assets/ExternalPackages/RigAnimations/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Sprint01
+  [RM].fbx
+- Assets/ExternalPackages/RigAnimations/Kevin Iglesias/Melee Warrior Animations/Animations/TwoHanded/2H@Parry01.fbx
+- Assets/ExternalPackages/RigAnimations/Kevin Iglesias/Melee Warrior Animations/Materials/MeleeWarriorMaterial.mat
+- Assets/ExternalPackages/RigAnimations/Kevin Iglesias/Archer Animations/Animations/Combat/Archer@CombatIdle02.fbx
+- Assets/ExternalPackages/RigAnimations/Kevin Iglesias/Archer Animations/Materials/ArcherMaterial.mat
+- Assets/ExternalPackages/RigAnimations/Kevin Iglesias/Basic Motions/Animations/Idles/BasicMotions@Idle02.fbx
+- Assets/ExternalPackages/RigAnimations/Kevin Iglesias/Melee Warrior Animations/Animations/OneHanded/1H@CombatIdle01.fbx
+- Assets/ExternalPackages/RigAnimations/Kevin Iglesias/Melee Warrior Animations/Models/Weapons/MeleeWarriorShield.fbx
+- Assets/ExternalPackages/RigAnimations/Kevin Iglesias/Basic Motions/Animations/Social/BasicMotions@Cheer02.fbx
+- Assets/ExternalPackages/RigAnimations/Kevin Iglesias/Melee Warrior Animations/Animations/TwoHanded/2H@TakeDamage01.fbx
+- Assets/ExternalPackages/RigAnimations/Kevin Iglesias/Melee Warrior Animations/Prefabs/Weapons/1HSword.prefab
+- Assets/ExternalPackages/RigAnimations/Kevin Iglesias/Caster Mage Animations/Animations/Combat/Mage@Attack06.fbx
+- Assets/ExternalPackages/RigAnimations/Kevin Iglesias/Melee Warrior Animations/Animations/OneHanded/LeftHand/LeftHand@Attack01.fbx
+- Assets/ExternalPackages/RigAnimations/Kevin Iglesias/Melee Warrior Animations/Models/Characters/HumanMeleeWarrior.fbx
+- Assets/ExternalPackages/RigAnimations/Kevin Iglesias/Archer Animations/Models/Bow02.fbx
+- Assets/ExternalPackages/RigAnimations/Kevin Iglesias/Archer Animations/Prefabs/Bow02.prefab
+- Assets/ExternalPackages/RigAnimations/Kevin Iglesias/Caster Mage Animations/Models/Characters/CasterMage.fbx
+- Assets/ExternalPackages/RigAnimations/Kevin Iglesias/Melee Warrior Animations/Models/Weapons/MeleeWarriorSword.fbx
+- Assets/ExternalPackages/RigAnimations/Kevin Iglesias/Basic Motions/Animations/Social/BasicMotions@Horror01.fbx
+- Assets/ExternalPackages/RigAnimations/Kevin Iglesias/Archer Animations/Models/ArcherCharacter.fbx
+- Assets/ExternalPackages/RigAnimations/Kevin Iglesias/Melee Warrior Animations/Animations/TwoHanded/2H@Attack03.fbx
+- Assets/ExternalPackages/RigAnimations/Kevin Iglesias/Archer Animations/Textures/ArcherTextures.png
+- Assets/ExternalPackages/RigAnimations/Kevin Iglesias/Melee Warrior Animations/Animations/OneHanded/Shield/Shield@Block01.fbx
+- Assets/ExternalPackages/RigAnimations/Kevin Iglesias/Melee Warrior Animations/Textures/MeleeWarriorTexture.png
+- Assets/ExternalPackages/RigAnimations/Kevin Iglesias/Basic Motions/Models/BasicMotionsDummy.fbx
+- Assets/ExternalPackages/RigAnimations/Kevin Iglesias/Melee Warrior Animations/Prefabs/Weapons/Shield.prefab
+- Assets/ExternalPackages/RigAnimations/Kevin Iglesias/Melee Warrior Animations/Animations/MeleeWarrior@Death02.fbx
+Dependencies: []
