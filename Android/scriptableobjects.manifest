@@ -1,0 +1,133 @@
+ManifestFileVersion: 0
+CRC: 1313144935
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e36fca99f0dc25a4f677d7c5140d4526
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 97ff6a28e7b007717c798443bbe0b323
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d061d7f022ab7ac4fa5211ce4fff8d81, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f03f548f242e4cb9be0edceebf05964, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e133a255187ecd94bb634a21f6a0dec8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 07fb0920fcb53184c802be46242c360b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a7015c0040ba47b41a9a44baccd21bd5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 871cff46149293d4380008705c0ead42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1e4c30d6f8fe1dd4786969541038a065, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c7de6c65103c99d49a01ab10af181afc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c01b826c7987e1745a27663cfc735742, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c85dc82ea67b14306a21b38107749688, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/DailyRewardData/DailyRewardDataDay_ 10.asset
+- Assets/ScriptableObjects/ItemsData/Item_Ring.asset
+- Assets/ScriptableObjects/Characters/Character_ 2.asset
+- Assets/ScriptableObjects/EquipableItemsData/Weapons/EquipableItem_Battle Axe.asset
+- Assets/ScriptableObjects/ConsumableItemsData/AltarItems/ConsumableItem_RuneOfLife.asset
+- Assets/ScriptableObjects/DailyRewardData/DailyRewardDataDay_ 15.asset
+- Assets/ScriptableObjects/EquipableItemsData/Shields/EquipableItem_Peace Maker.asset
+- Assets/ScriptableObjects/DailyRewardData/DailyRewardDataDay_ 21.asset
+- Assets/ScriptableObjects/DailyRewardData/DailyRewardDataDay_ 23.asset
+- Assets/ScriptableObjects/EquipableItemsData/Weapons/EquipableItem_Blood Ravager.asset
+- Assets/ScriptableObjects/EquipableItemsData/Weapons/EquipableItem_Destroyer.asset
+- Assets/ScriptableObjects/DailyRewardData/DailyRewardDataDay_ 7.asset
+- Assets/ScriptableObjects/DailyRewardData/DailyRewardDataDay_ 18.asset
+- Assets/ScriptableObjects/HeroesRanks/HeroesRank_ Rare.asset
+- Assets/ScriptableObjects/DailyRewardData/DailyRewardDataDay_ 24.asset
+- Assets/ScriptableObjects/ConsumableItemsData/AltarItems/ConsumableItem_SummoningScroll.asset
+- "Assets/ScriptableObjects/ConsumableItemsData/ConsumableItem_LesserSpeed\u200B\u200BPotion.asset"
+- Assets/ScriptableObjects/EquipableItemsData/Boots/EquipableItem_Royal Tread.asset
+- Assets/ScriptableObjects/EquipableItemsData/Weapons/EquipableItem_Royal Will.asset
+- Assets/ScriptableObjects/HeroesRanks/HeroesRank_ Epic.asset
+- Assets/ScriptableObjects/CurrencyItemsData/CurrencyItem_Coin.asset
+- Assets/ScriptableObjects/DailyRewardData/DailyRewardDataDay_ 29.asset
+- Assets/ScriptableObjects/DailyRewardData/DailyRewardDataDay_ 20.asset
+- Assets/ScriptableObjects/DailyRewardData/DailyRewardDataDay_ 25.asset
+- Assets/ScriptableObjects/DailyRewardData/DailyRewardDataDay_ 28.asset
+- Assets/ScriptableObjects/ConsumableItemsData/AltarItems/ConsumableItem_Four-leafClover.asset
+- Assets/ScriptableObjects/DailyRewardData/DailyRewardDataDay_0.asset
+- Assets/ScriptableObjects/DailyRewardData/DailyRewardDataDay_ 4.asset
+- Assets/ScriptableObjects/DailyRewardData/DailyRewardDataDay_ 14.asset
+- Assets/ScriptableObjects/EquipableItemsData/Shields/EquipableItem_Royal Defense.asset
+- Assets/ScriptableObjects/EquipableItemsData/Weapons/EquipableItem_Prophecy of the
+  Victor.asset
+- Assets/ScriptableObjects/DailyRewardData/DailyRewardDataDay_ 2.asset
+- Assets/ScriptableObjects/ConsumableItemsData/ConsumableItem_LesserLifePotion.asset
+- Assets/ScriptableObjects/EquipableItemsData/Weapons/EquipableItem_Woeful Skeletal
+  Warmace.asset
+- Assets/ScriptableObjects/EquipableItemsData/Helmets/EquipableItem_Noble`s Helmet.asset
+- Assets/ScriptableObjects/DailyRewardData/DailyRewardDataDay_ 19.asset
+- Assets/ScriptableObjects/EquipableItemsData/Weapons/EquipableItem_Bloodlord's Iron
+  Axe.asset
+- Assets/ScriptableObjects/ConsumableItemsData/ConsumableItem_Meat.asset
+- Assets/ScriptableObjects/Characters/Character_ 1.asset
+- Assets/ScriptableObjects/DailyRewardData/DailyRewardDataDay_ 16.asset
+- Assets/ScriptableObjects/ConsumableItemsData/AltarItems/ConsumableItem_SilverKey.asset
+- Assets/ScriptableObjects/HeroesRanks/HeroesRank_ Myphic.asset
+- Assets/ScriptableObjects/DailyRewardData/DailyRewardDataDay_ 1.asset
+- Assets/ScriptableObjects/DailyRewardData/DailyRewardDataDay_ 13.asset
+- Assets/ScriptableObjects/ConsumableItemsData/AltarItems/ConsumableItem_RuneOfSpirit.asset
+- Assets/ScriptableObjects/ConsumableItemsData/ConsumableItem_MajorStrengthPotion.asset
+- Assets/ScriptableObjects/DailyRewardData/DailyRewardDataDay_ 11.asset
+- Assets/ScriptableObjects/EquipableItemsData/Helmets/EquipableItem_Royal Crown.asset
+- Assets/ScriptableObjects/DailyRewardData/DailyRewardDataDay_ 12.asset
+- Assets/ScriptableObjects/EquipableItemsData/Weapons/EquipableItem_Bloodied Pummeler.asset
+- Assets/ScriptableObjects/EquipableItemsData/Weapons/EquipableItem_Blood Infused
+  Ravager.asset
+- Assets/ScriptableObjects/ConsumableItemsData/AltarItems/ConsumableItem_BronzeKey.asset
+- Assets/ScriptableObjects/DailyRewardData/DailyRewardDataDay_ 8.asset
+- Assets/ScriptableObjects/SelectedHeroData.asset
+- Assets/ScriptableObjects/EquipableItemsData/Weapons/EquipableItem_Warmonger.asset
+- Assets/ScriptableObjects/ConsumableItemsData/ConsumableItem_MajorSpeedPotion.asset
+- Assets/ScriptableObjects/CurrencyItemsData/CurrencyItem_Gem.asset
+- Assets/ScriptableObjects/DailyRewardData/DailyRewardDataDay_ 3.asset
+- Assets/ScriptableObjects/HeroesRanks/HeroesRank_Common.asset
+- Assets/ScriptableObjects/EquipableItemsData/Weapons/EquipableItem_Purifiers Axe.asset
+- Assets/ScriptableObjects/ConsumableItemsData/AltarItems/ConsumableItem_GoldenKey.asset
+- Assets/ScriptableObjects/EquipableItemsData/Helmets/EquipableItem_Steel Helmet.asset
+- Assets/ScriptableObjects/DailyRewardData/DailyRewardDataDay_ 27.asset
+- Assets/ScriptableObjects/PlayerSkinData.asset
+- Assets/ScriptableObjects/ConsumableItemsData/ConsumableItem_MajorProtectionPotion.asset
+- Assets/ScriptableObjects/EquipableItemsData/Weapons/EquipableItem_Perfect Storm.asset
+- Assets/ScriptableObjects/EquipableItemsData/Shields/EquipableItem_Sinister Shield.asset
+- Assets/ScriptableObjects/EquipableItemsData/ChestArmor/EquipableItem_Royal Hope.asset
+- Assets/ScriptableObjects/EquipableItemsData/Shields/EquipableItem_Cursed Oak Ward.asset
+- Assets/ScriptableObjects/DailyRewardData/DailyRewardDataDay_ 22.asset
+- Assets/ScriptableObjects/EquipableItemsData/Weapons/EquipableItem_Massive Smasher.asset
+- Assets/ScriptableObjects/EquipableItemsData/Weapons/EquipableItem_Sorrow's Maul.asset
+- Assets/ScriptableObjects/DailyRewardData/DailyRewardDataDay_ 5.asset
+- Assets/ScriptableObjects/ConsumableItemsData/AltarItems/ConsumableItem_RuneOfStrength.asset
+- Assets/ScriptableObjects/ConsumableItemsData/AltarItems/ConsumableItem_Gemstone.asset
+- Assets/ScriptableObjects/DailyRewardData/DailyRewardDataDay_ 6.asset
+- Assets/ScriptableObjects/DailyRewardData/DailyRewardDataDay_ 26.asset
+- Assets/ScriptableObjects/ConsumableItemsData/ConsumableItem_LesserStrenghtPotion.asset
+- Assets/ScriptableObjects/DailyRewardData/DailyRewardDataDay_ 9.asset
+- Assets/ScriptableObjects/ConsumableItemsData/ConsumableItem_LesserProtectionPotion.asset
+- Assets/ScriptableObjects/EquipableItemsData/Shields/EquipableItem_Malicious Yew
+  Wall.asset
+- Assets/ScriptableObjects/ConsumableItemsData/ConsumableItem_MajorLifePotion.asset
+- Assets/ScriptableObjects/DailyRewardData/DailyRewardDataDay_ 17.asset
+- Assets/ScriptableObjects/Characters/Character_.asset
+- Assets/ScriptableObjects/EquipableItemsData/Gloves/EquipableItem_Royal Hand.asset
+Dependencies:
+- /Users/vladlutai/Desktop/AssetBundles/android/gui
+- /Users/vladlutai/Desktop/AssetBundles/android/prefabs
+- /Users/vladlutai/Desktop/AssetBundles/android/textures

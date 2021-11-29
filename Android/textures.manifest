@@ -1,0 +1,78 @@
+ManifestFileVersion: 0
+CRC: 2953813099
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 47acf9c85763472c2595c8d3651091a3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b2575126c27ab54b221433562169e01c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Textures/LoginReward/item_glow_green.png
+- Assets/Textures/ConsumableIcons/EquipmentIcons_128x128/common_item_potionLesserBlue.png
+- Assets/Textures/UI/Sprites_Custom/shop_btn_blue.png
+- Assets/Textures/CharacterRenderer.renderTexture
+- Assets/Textures/ConsumableIcons/EquipmentIcons_128x128/common_item_runeSpirit.png
+- Assets/Textures/Character_Preview_Icons/preview_icon_Gabriel_256x256.png
+- Assets/Textures/LoginReward/item_glow_red.png
+- Assets/Textures/UI/Sprites_Custom/line copy 7.png
+- Assets/Textures/Character_Preview_Icons/preview_icon_Gabriel_128x128.png
+- Assets/Textures/Equipment_Detail/Equipment_Grade_Red.png
+- Assets/Textures/UI/Sprites_Custom/shop_lines.png
+- Assets/Textures/UI/Sprites_Custom/bg.png
+- Assets/Textures/UI/Sprites_Custom/shop_btn_yellow.png
+- Assets/Textures/UI/Sprites_Custom/shop_btn_green.png
+- Assets/Textures/LoginReward/item_glow_violet.png
+- Assets/Textures/UI/Sprites_Custom/frame.png
+- Assets/Textures/UI/Minimap.png
+- Assets/Textures/UI/Sprites_Custom/list_me.png
+- Assets/Textures/ConsumableIcons/EquipmentIcons_128x128/common_item_potionLesserGreen.png
+- Assets/Textures/Equipment_Detail/focus.png
+- Assets/Textures/UI/Sprites_Custom/Game_StatisticsPanel/round_list_blue.png
+- Assets/Textures/Character_Preview_Icons/Ghorbash_the_Brave/Toon/preview_icon_Ghorbash_128x128.png
+- Assets/Textures/Equipment_Detail/Equipment_Grade_Blue.png
+- Assets/Textures/LoginReward/common_popup_title.png
+- Assets/Textures/ConsumableIcons/EquipmentIcons_128x128/common_item_potionMajorGreen.png
+- Assets/Textures/ConsumableIcons/EquipmentIcons_128x128/common_item_potionMajorPurple.png
+- Assets/Textures/LoginReward/item_glow_yellow.png
+- Assets/Textures/UI/Sprites_Custom/Game_StatisticsPanel/round_header.png
+- Assets/Textures/Equipment_Detail/Equipment_Grade_Purple.png
+- Assets/Textures/RenderTextures/Minimap.renderTexture
+- Assets/Textures/UI/Sprites_Custom/shop_bg_blue_glow.png
+- Assets/Textures/UI/Sprites_Custom/play_time_bg.png
+- Assets/Textures/ConsumableIcons/EquipmentIcons_128x128/common_item_runeLife.png
+- Assets/Textures/UI/Sprites_Custom/shop_menu_line.png
+- Assets/Textures/ConsumableIcons/EquipmentIcons_128x128/common_item_potionMajorRed.png
+- Assets/Textures/UI/Sprites_Custom/shop_btn_small_yellow.png
+- Assets/Textures/ConsumableIcons/EquipmentIcons_128x128/common_item_potionLesserPink.png
+- Assets/Textures/Equipment_Detail/Equipment_Grade_Silver.png
+- Assets/Textures/Equipment_Detail/Equipment_Grade_Green.png
+- Assets/Textures/ConsumableIcons/EquipmentIcons_128x128/common_item_potionMajorYellow.png
+- Assets/Textures/ConsumableIcons/EquipmentIcons_128x128/common_item_potionMajorPink.png
+- Assets/Textures/ConsumableIcons/EquipmentIcons_128x128/common_item_potionLesserPurple.png
+- Assets/Textures/ConsumableIcons/EquipmentIcons_128x128/common_item_potionLesserRed.png
+- Assets/Textures/Play_Result/patricle_play_result.png
+- Assets/Textures/Play_Result/character_back_glow.png
+- Assets/Textures/UI/skin_change.png
+- Assets/Textures/UI/Sprites_Custom/Game_StatisticsPanel/particle_round.png
+- Assets/Textures/ConsumableIcons/EquipmentIcons_128x128/common_item_potionMajorBlue.png
+- Assets/Textures/LoginReward/item_glow_blue.png
+- Assets/Textures/UI/btn_circle_02.png
+- Assets/Textures/Equipment_Detail/Equipment_Grade_Gold.png
+- Assets/Textures/UI/Sprites_Custom/Game_StatisticsPanel/round_list_red.png
+- Assets/Textures/Character_Preview_Icons/Ghorbash_the_Brave/Toon/preview_icon_Ghorbash_256x256.png
+- Assets/Textures/ConsumableIcons/EquipmentIcons_128x128/common_item_runeStrength.png
+- Assets/Textures/ConsumableIcons/EquipmentIcons_128x128/common_item_potionLesserYellow.png
+- Assets/Textures/UI/Sprites_Custom/shop_bg_red_glow.png
+- Assets/Textures/UI/Sprites_Custom/shop_btn_small_blue.png
+- Assets/Textures/Equipment_Detail/icon.png
+Dependencies: []

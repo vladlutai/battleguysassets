@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 2463752717
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 90c26b5226ac234488870c821942817b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1fec1fe756e37e715acfa67b1839e5df
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ExternalPackages/GUI/GUI PRO Kit - Fantasy RPG/Font/Alata-Regular-Outline
+  120 SDF Atlas.png
+- Assets/ExternalPackages/GUI/GUI PRO Kit - Fantasy RPG/Font/Alata-Regular-Outline
+  210 SDF.asset
+- Assets/ExternalPackages/GUI/GUI PRO Kit - Fantasy RPG/Font/Alata-Regular-Outline
+  50 SDF Atlas.png
+- Assets/ExternalPackages/GUI/GUI PRO Kit - Fantasy RPG/Font/Alata-Regular-Outline
+  64 SDF.asset
+- Assets/ExternalPackages/GUI/GUI PRO Kit - Fantasy RPG/Font/Alata-Regular-Outline
+  210 SDF Atlas.png
+- Assets/ExternalPackages/GUI/GUI PRO Kit - Fantasy RPG/Font/Alata-Regular-Outline
+  28 SDF.asset
+- Assets/ExternalPackages/GUI/GUI PRO Kit - Fantasy RPG/Font/Alata-Regular-Outline
+  40 SDF Atlas.png
+- Assets/ExternalPackages/GUI/GUI PRO Kit - Fantasy RPG/Font/Alata-Regular SDF.asset
+- Assets/ExternalPackages/GUI/GUI PRO Kit - Fantasy RPG/Font/Alata-Regular-Outline
+  40 SDF.asset
+- Assets/ExternalPackages/GUI/GUI PRO Kit - Fantasy RPG/Font/Alata-Regular-Outline
+  32 SDF.asset
+- Assets/ExternalPackages/GUI/GUI PRO Kit - Fantasy RPG/Font/Alata-Regular-Outline
+  50 SDF.asset
+- Assets/ExternalPackages/GUI/GUI PRO Kit - Fantasy RPG/Font/JosefinSans-Bold SDF.asset
+- Assets/ExternalPackages/GUI/GUI PRO Kit - Fantasy RPG/Font/Alata-Regular-Outline
+  28 SDF Atlas.png
+- Assets/ExternalPackages/GUI/GUI PRO Kit - Fantasy RPG/Font/Alata-Regular-Outline
+  54 SDF Atlas.png
+- Assets/ExternalPackages/GUI/GUI PRO Kit - Fantasy RPG/Font/Alata-Regular-Outline
+  120 SDF.asset
+- Assets/ExternalPackages/GUI/GUI PRO Kit - Fantasy RPG/Font/Alata-Regular-Outline
+  54 SDF.asset
+- Assets/ExternalPackages/GUI/GUI PRO Kit - Fantasy RPG/Font/Alata-Regular-Outline
+  32 SDF Atlas.png
+- Assets/ExternalPackages/GUI/GUI PRO Kit - Fantasy RPG/Font/Alata-Regular-Outline
+  64 SDF Atlas.png
+Dependencies: []
