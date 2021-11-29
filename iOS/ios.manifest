@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 4016883377
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: bundlescenes
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: 3dmodels
+        Dependency_2: gui
+        Dependency_3: textures
+        Dependency_4: prefabs
+        Dependency_5: scriptableobjects
+    Info_1:
+      Name: font
+      Dependencies: {}
+    Info_2:
+      Name: 3dmodels
+      Dependencies: {}
+    Info_3:
+      Name: riganimations
+      Dependencies: {}
+    Info_4:
+      Name: gui
+      Dependencies: {}
+    Info_5:
+      Name: textures
+      Dependencies: {}
+    Info_6:
+      Name: prefabs
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: 3dmodels
+        Dependency_2: riganimations
+        Dependency_3: gui
+        Dependency_4: textures
+        Dependency_5: scriptableobjects
+        Dependency_6: scripabledata
+        Dependency_7: animations
+    Info_7:
+      Name: scriptableobjects
+      Dependencies:
+        Dependency_0: gui
+        Dependency_1: textures
+        Dependency_2: prefabs
+    Info_8:
+      Name: scripabledata
+      Dependencies:
+        Dependency_0: gui
+    Info_9:
+      Name: animations
+      Dependencies:
+        Dependency_0: riganimations

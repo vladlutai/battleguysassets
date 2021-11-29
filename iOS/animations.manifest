@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 4159679934
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c81377f3bb3d5549e81e22ec16582c0e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dc58d02c76d43c90aa1bc63e225d1913
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+- Class: 319
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Animations/Imported/Armature@Silly Dancing.fbx
+- Assets/Animations/Controllers/StarterAssetsThirdPersonOurs 2.controller
+- Assets/Animations/Controllers/OneHanded.controller
+- Assets/Animations/Controllers/StarterAssetsThirdPersonOursWithAllAnimations.controller
+- Assets/Animations/Imported/Armature@Receive Uppercut To The Face.fbx
+- Assets/Animations/Imported/Kevin Changed/LeftHand@Attack01 1.fbx
+- Assets/Animations/Controllers/OrcGorbash.controller
+- Assets/Animations/Imported/Armature@Dying.fbx
+- Assets/Animations/Controllers/Preview/Maria_j_jPreview.controller
+- Assets/Animations/Controllers/Preview/OrcGorbashPreview.controller
+- Assets/Animations/Controllers/Preview/VanguardPreview.controller
+- Assets/Animations/Controllers/Preview/ErikaArcherPreview.controller
+- Assets/Animations/Controllers/Preview/GabrioPreview.controller
+- Assets/Animations/Controllers/ControllersOverriders/AnimatorOverrideControllerMage.overrideController
+- Assets/Animations/Controllers/ControllersOverriders/AnimatorOverrideController2h.overrideController
+- Assets/Animations/Imported/Armature@Hurricane Kick.fbx
+- Assets/Animations/Imported/Armature@Punching.fbx
+- Assets/Animations/Imported/Armature@Standing Death Backward 01.fbx
+- Assets/Animations/Imported/Armature@Pontera.fbx
+- Assets/Animations/Controllers/ControllersOverriders/AnimatorOverrideControllerShield.overrideController
+- Assets/Animations/AvatarMasks/FullBodyMask.mask
+- Assets/Animations/AvatarMasks/UpperBodyWithoutHead.mask
+- Assets/Animations/AvatarMasks/FullBodyWithoutIK.mask
+- Assets/Animations/Controllers/Archer.controller
+Dependencies:
+- /Users/vladlutai/Desktop/AssetBundles/ios/riganimations
